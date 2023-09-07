@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lab1" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.strava.com/oauth/</Value>
+    </Setting>
+    <Setting Name="client_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">94541</Value>
+    </Setting>
+    <Setting Name="redirected_uri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:8080</Value>
+    </Setting>
+    <Setting Name="client_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0e93188bc2de243ac4850a9cd1c2bfabd8f5020d</Value>
+    </Setting>
+    <Setting Name="access_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="refresh_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
